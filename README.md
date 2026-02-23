@@ -1,1 +1,1 @@
-# cs889-streamlit-prototype-updated
+CS 889 Streamlit Activity
